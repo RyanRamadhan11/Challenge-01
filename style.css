@@ -1,0 +1,255 @@
+/* navbar */
+
+.navbar-brand {
+    width: 100px;
+    height: 34px;
+}
+
+.nav-link {
+    font-family: helvetica;
+    font-size: 14px;
+    margin-right: 30px;
+}
+
+
+/* navbar */
+
+
+/* content 1 */
+
+.jumbotron {
+    background-color: #F1F3FF;
+    height: 500px;
+    margin-top: -75px;
+}
+
+.judul {
+    font-family: helvetica;
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 150%;
+    width: 568px;
+    height: 108px;
+}
+
+.sub-judul {
+    width: 468px;
+    height: 60px;
+}
+
+.btn-ijo {
+    font-family: Helvetica;
+    color: white;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #5CB85F;
+}
+
+.mobil {
+    width: 612px;
+}
+
+
+/* content 1 */
+
+
+/* content 2 */
+
+.judul-2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+    height: 72px;
+    width: 468px;
+    margin: 24px 0px;
+}
+
+.sub-judul-2 {
+    width: 468px;
+    height: 60px;
+}
+
+.list {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+/* content 2 */
+
+
+/* content 3 */
+
+.card-1 {
+    /* width: 268px;
+    height: 196px; */
+    border-radius: 8px;
+}
+
+
+/* content 3 */
+
+
+/* content 5 */
+
+.img-text {
+    width: 619px;
+    height: 270px;
+    display: block;
+    padding-left: 172px;
+    padding-top: 50px;
+    background: #F1F3FF;
+    border-radius: 8px;
+}
+
+.img-text .star {
+    color: #F9CC00;
+    width: 16px;
+    height: 16px;
+}
+
+.img-text h2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: bold;
+}
+
+.img-text p {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    width: 415px;
+    height: 80px;
+}
+
+.single-box {
+    position: relative;
+    margin-bottom: 30px;
+    display: flex;
+    float: right;
+}
+
+.img-area {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    margin-top: 100px;
+    /* overflow: hidden; */
+    left: 46px;
+}
+
+.img-area img {
+    width: 100%;
+}
+
+.carousel-indicators {
+    bottom: -40px;
+}
+
+.carousel-indicators li {
+    background: #000;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+
+.carousel-indicators .active {
+    background: #5CB85F;
+}
+
+
+/* content 5 */
+
+
+/* content 7 */
+
+.btn-link {
+    color: #000;
+}
+
+.faq i {
+    padding-top: 5px;
+    display: flex;
+    float: right;
+    margin-top: 10px;
+}
+
+
+/* content 7 */
+
+
+/* warna */
+
+.biru4 {
+    background-color: #0D28A6;
+}
+
+.border-solid {
+    border: black solid;
+}
+
+
+/* warna */
+
+
+/* typography */
+
+.text-14-light {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.text-14-regular {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.text-16-bold {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-24-bold {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.text-36-bold {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+}
+
+
+/* web version */
+
+@media (min-width: 992px) {
+    /* content 1 */
+    /* content 1 */
+}
