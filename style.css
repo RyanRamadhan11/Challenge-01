@@ -20,7 +20,7 @@
 /* content desc binar car rental */
 .jumbotron {
     background-color: #F1F3FF;
-    height: 500px;
+    height: 580px;
     margin-top: -75px;
 }
 
@@ -90,11 +90,11 @@
 
 /* content testimonial */
 .img-text {
-    width: 619px;
+    width: 100%;
     height: 270px;
     display: block;
-    padding-left: 172px;
-    padding-top: 50px;
+    padding-left: 130px;
+    padding-top: 45px;
     background: #F1F3FF;
     border-radius: 8px;
 }
@@ -120,8 +120,6 @@
     font-weight: 300;
     font-size: 14px;
     line-height: 20px;
-    width: 415px;
-    height: 80px;
 }
 
 .single-box {
@@ -129,6 +127,7 @@
     margin-bottom: 30px;
     display: flex;
     float: right;
+    width: 100%;
 }
 
 .img-area {
@@ -136,7 +135,7 @@
     width: 80px;
     height: 80px;
     margin-top: 100px;
-    left: 46px;
+    left: 25px;
 }
 
 .img-area img {
@@ -147,15 +146,15 @@
     bottom: -40px;
 }
 
-.carousel-indicators li {
-    background: #000;
-    border-radius: 50%;
-    width: 15px;
-    height: 15px;
-}
-
 .carousel-indicators .active {
     background: #5CB85F;
+    color: white;
+    border-color: 0;
+}
+
+.car a {
+    border-radius: 50%;
+    margin-right: 20px;
 }
 /* content testimonial*/
 
