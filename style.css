@@ -1,5 +1,6 @@
-/* navbar */
+/* Ryan Ramadhan - FSW 6 */
 
+/* navbar */
 .navbar-brand {
     width: 100px;
     height: 34px;
@@ -8,15 +9,15 @@
 .nav-link {
     font-family: helvetica;
     font-size: 14px;
-    margin-right: 30px;
+    font-weight: 400;
+    line-height: 20px;
+    margin-right: 30px;    
+    color: #000;
 }
-
-
 /* navbar */
 
 
-/* content 1 */
-
+/* content desc binar car rental */
 .jumbotron {
     background-color: #F1F3FF;
     height: 500px;
@@ -37,7 +38,7 @@
     height: 60px;
 }
 
-.btn-ijo {
+.btn-hijau {
     font-family: Helvetica;
     color: white;
     font-style: normal;
@@ -46,17 +47,10 @@
     line-height: 20px;
     background-color: #5CB85F;
 }
-
-.mobil {
-    width: 612px;
-}
+/* content desc binar car rental */
 
 
-/* content 1 */
-
-
-/* content 2 */
-
+/* content our service */
 .judul-2 {
     font-family: Helvetica;
     font-style: normal;
@@ -73,6 +67,10 @@
     height: 60px;
 }
 
+.services{
+    padding-right: 150px;
+}
+
 .list {
     font-family: Helvetica;
     font-style: normal;
@@ -80,25 +78,17 @@
     font-size: 14px;
     line-height: 20px;
 }
+/* content our service */
 
 
-/* content 2 */
-
-
-/* content 3 */
-
+/* content why us */
 .card-1 {
-    /* width: 268px;
-    height: 196px; */
     border-radius: 8px;
 }
+/* content why us */
 
 
-/* content 3 */
-
-
-/* content 5 */
-
+/* content testimonial */
 .img-text {
     width: 619px;
     height: 270px;
@@ -146,7 +136,6 @@
     width: 80px;
     height: 80px;
     margin-top: 100px;
-    /* overflow: hidden; */
     left: 46px;
 }
 
@@ -168,13 +157,10 @@
 .carousel-indicators .active {
     background: #5CB85F;
 }
+/* content testimonial*/
 
 
-/* content 5 */
-
-
-/* content 7 */
-
+/* content faq*/
 .btn-link {
     color: #000;
 }
@@ -185,13 +171,10 @@
     float: right;
     margin-top: 10px;
 }
-
-
-/* content 7 */
+/* content faq */
 
 
 /* warna */
-
 .biru4 {
     background-color: #0D28A6;
 }
@@ -199,13 +182,10 @@
 .border-solid {
     border: black solid;
 }
-
-
 /* warna */
 
 
-/* typography */
-
+/* Tipografi */
 .text-14-light {
     font-family: Helvetica;
     font-style: normal;
@@ -245,11 +225,10 @@
     font-size: 36px;
     line-height: 150%;
 }
+/* Tipografi */
 
-
-/* web version */
-
-@media (min-width: 992px) {
-    /* content 1 */
-    /* content 1 */
+/* footer */
+.gambar img{
+    padding-right: 12px;
 }
+/* footer */
